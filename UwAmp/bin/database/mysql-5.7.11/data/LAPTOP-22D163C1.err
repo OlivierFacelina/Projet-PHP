@@ -1,0 +1,44 @@
+2022-02-21T07:30:05.365705Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2022-02-21T07:30:05.365705Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2022-02-21T07:30:05.365705Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2022-02-21T07:30:05.365705Z 0 [Warning] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2022-02-21T07:30:05.365705Z 0 [Note] C:\Users\olivi\OneDrive\Bureau\Projet PHP\UwAmp\bin\database\mysql-5.7.11\bin\mysqld.exe (mysqld 5.7.11) starting as process 16760 ...
+2022-02-21T07:30:07.177624Z 0 [ERROR] Can't open shared library 'C:\Users\olivi\OneDrive\Bureau\Projet PHP\UwAmp\bin\database\mysql-5.7.11\lib\plugin\keyring_file.dll' (errno: 126 Le module spécifié est introuvable.)
+2022-02-21T07:30:07.177624Z 0 [ERROR] Couldn't load plugin named 'keyring_file' with soname 'keyring_file.dll'.
+2022-02-21T07:30:07.177624Z 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-02-21T07:30:07.177624Z 0 [Note] InnoDB: Uses event mutexes
+2022-02-21T07:30:07.177624Z 0 [Note] InnoDB: Memory barrier is not used
+2022-02-21T07:30:07.193265Z 0 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2022-02-21T07:30:07.193265Z 0 [Note] InnoDB: Number of pools: 1
+2022-02-21T07:30:07.193265Z 0 [Note] InnoDB: Not using CPU crc32 instructions
+2022-02-21T07:30:07.380688Z 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2022-02-21T07:30:07.411924Z 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-02-21T07:30:33.232896Z 0 [Note] InnoDB: Setting log file .\ib_logfile101 size to 48 MB
+2022-02-21T07:30:35.865390Z 0 [Note] InnoDB: Setting log file .\ib_logfile1 size to 48 MB
+2022-02-21T07:30:41.446727Z 0 [Note] InnoDB: Renaming log file .\ib_logfile101 to .\ib_logfile0
+2022-02-21T07:30:41.565055Z 0 [Warning] InnoDB: New log files created, LSN=2602779
+2022-02-21T07:30:41.611926Z 0 [Note] InnoDB: Highest supported file format is Barracuda.
+2022-02-21T07:30:41.696580Z 0 [ERROR] InnoDB: Operating system error number 87 in a file operation.
+2022-02-21T07:30:41.696580Z 0 [Note] InnoDB: Some operating system error numbers are described at http://dev.mysql.com/doc/refman/5.7/en/operating-system-error-codes.html
+2022-02-21T07:30:41.696580Z 0 [ERROR] InnoDB: File .\ib_logfile0: 'aio read' returned OS error 187. Cannot continue operation
+2022-02-21T07:30:41.712200Z 0 [ERROR] InnoDB: Cannot continue operation.
+2022-02-21T07:31:34.786950Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2022-02-21T07:31:34.786950Z 0 [Warning] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2022-02-21T07:31:34.786950Z 0 [Warning] 'NO_AUTO_CREATE_USER' sql mode was not set.
+2022-02-21T07:31:34.786950Z 0 [Warning] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2022-02-21T07:31:34.786950Z 0 [Note] C:\Users\olivi\OneDrive\Bureau\Projet PHP\UwAmp\bin\database\mysql-5.7.11\bin\mysqld.exe (mysqld 5.7.11) starting as process 9888 ...
+2022-02-21T07:31:37.832849Z 0 [ERROR] Can't open shared library 'C:\Users\olivi\OneDrive\Bureau\Projet PHP\UwAmp\bin\database\mysql-5.7.11\lib\plugin\keyring_file.dll' (errno: 126 Le module spécifié est introuvable.)
+2022-02-21T07:31:37.832849Z 0 [ERROR] Couldn't load plugin named 'keyring_file' with soname 'keyring_file.dll'.
+2022-02-21T07:31:37.910980Z 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-02-21T07:31:37.910980Z 0 [Note] InnoDB: Uses event mutexes
+2022-02-21T07:31:37.926571Z 0 [Note] InnoDB: Memory barrier is not used
+2022-02-21T07:31:37.926571Z 0 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2022-02-21T07:31:38.020320Z 0 [Note] InnoDB: Number of pools: 1
+2022-02-21T07:31:38.114126Z 0 [Note] InnoDB: Not using CPU crc32 instructions
+2022-02-21T07:31:38.317111Z 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2022-02-21T07:31:38.348329Z 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-02-21T07:32:00.194592Z 0 [Note] InnoDB: Highest supported file format is Barracuda.
+2022-02-21T07:32:00.350835Z 0 [ERROR] InnoDB: Operating system error number 87 in a file operation.
+2022-02-21T07:32:00.350835Z 0 [Note] InnoDB: Some operating system error numbers are described at http://dev.mysql.com/doc/refman/5.7/en/operating-system-error-codes.html
+2022-02-21T07:32:00.366411Z 0 [ERROR] InnoDB: File .\ib_logfile0: 'aio read' returned OS error 187. Cannot continue operation
+2022-02-21T07:32:00.366411Z 0 [ERROR] InnoDB: Cannot continue operation.
